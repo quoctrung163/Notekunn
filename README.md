@@ -116,8 +116,4 @@ Other                    1 hr 27 mins        █░░░░░░░░░░�
 
 
 
-![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=guilyx&show_icons=true&hide_border=true)
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/dq01aOE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-</p>
+![notekunn's github stats](https://github-readme-stats.vercel.app/api?username=notekunn&show_icons=true&hide_border=true)
