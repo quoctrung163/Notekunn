@@ -15,5 +15,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: Notekunn # optional, it will automatically use the username of the owner of the repository who's executing the workflow.
           SHOW_OS: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_EDITORS: "False"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
