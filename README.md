@@ -52,11 +52,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com//guilyx/AStar/issues/23) in [guilyx/AStar](https://github.com//guilyx/AStar)
-2. 💪 Opened PR [#22](https://github.com//guilyx/AStar/pull/22) in [guilyx/AStar](https://github.com//guilyx/AStar)
-3. 🎉 Merged PR [#21](https://github.com//guilyx/AStar/pull/21) in [guilyx/AStar](https://github.com//guilyx/AStar)
-4. 💪 Opened PR [#21](https://github.com//guilyx/AStar/pull/21) in [guilyx/AStar](https://github.com//guilyx/AStar)
-5. 💪 Opened PR [#20](https://github.com//guilyx/AStar/pull/20) in [guilyx/AStar](https://github.com//guilyx/AStar)
+1. 🗣 Commented on [#5](https://github.com//Notekunn/notekunn.github.io/issues/5) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
+2. 🗣 Commented on [#5](https://github.com//Notekunn/notekunn.github.io/issues/5) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
+3. ❗️ Opened issue [#126](https://github.com//benjaminsampica/benjaminsampica/issues/126) in [benjaminsampica/benjaminsampica](https://github.com//benjaminsampica/benjaminsampica)
+4. 🎉 Merged PR [#1](https://github.com//Notekunn/tin-chi-kma/pull/1) in [Notekunn/tin-chi-kma](https://github.com//Notekunn/tin-chi-kma)
+5. 🎉 Merged PR [#2](https://github.com//Notekunn/kma-support/pull/2) in [Notekunn/kma-support](https://github.com//Notekunn/kma-support)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
