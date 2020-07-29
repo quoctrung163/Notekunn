@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/Notekunn/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/Notekunn/guilyx/actions)
-[![Actions Status](https://github.com/Notekunn/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/Notekunn/guilyx/actions)
+[![Actions Status](https://github.com/Notekunn/Notekunn/workflows/wakatime-stats/badge.svg)](https://github.com/Notekunn/Notekunn/actions)
+[![Actions Status](https://github.com/Notekunn/Notekunn/workflows/update-gh-activity/badge.svg)](https://github.com/Notekunn/Notekunn/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 ### Hello 👋, I'm [Notekunn](https://Notekunn.github.io) 
