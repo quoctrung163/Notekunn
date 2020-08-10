@@ -32,11 +32,11 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com//Notekunn/notekunn.github.io/issues/5) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
-2. ❗️ Closed issue [#6](https://github.com//Notekunn/notekunn.github.io/issues/6) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
-3. 🗣 Commented on [#6](https://github.com//Notekunn/notekunn.github.io/issues/6) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
-4. 🗣 Commented on [#5](https://github.com//Notekunn/notekunn.github.io/issues/5) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
-5. undefined
+1. 🎉 Merged PR [#1](https://github.com//Notekunn/chrome-extension/pull/1) in [Notekunn/chrome-extension](https://github.com//Notekunn/chrome-extension)
+2. 🎉 Merged PR [#2](https://github.com//Notekunn/chrome-extension/pull/2) in [Notekunn/chrome-extension](https://github.com//Notekunn/chrome-extension)
+3. ❗️ Closed issue [#5](https://github.com//Notekunn/notekunn.github.io/issues/5) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
+4. ❗️ Closed issue [#6](https://github.com//Notekunn/notekunn.github.io/issues/6) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
+5. 🗣 Commented on [#6](https://github.com//Notekunn/notekunn.github.io/issues/6) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
