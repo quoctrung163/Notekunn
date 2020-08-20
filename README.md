@@ -40,19 +40,19 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 215 Contributions in the year 2020
+> 🏆 215 Contributions in the Year 2020
  > 
 > 📦 19.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 37 Public repositories
+> 📜 37 Public Repositories
  > 
-> 🔑 3 Private repositories 
+> 🔑 3 Private Repositories 
 
 **I'm an Early 🐤** 
 
@@ -77,17 +77,17 @@ Sunday       63 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Ho_Chi_Minh
+⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               16 hrs 37 mins      █████████████████░░░░░░░░   67.87% 
-TypeScript               3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
-JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
-Other                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
-HTML                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
+JavaScript               18 hrs              ████████████████░░░░░░░░░   65.59% 
+TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+Other                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+YAML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
 
 ```
 
