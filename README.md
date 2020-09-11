@@ -40,7 +40,7 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My Github Data** 
 
@@ -83,11 +83,8 @@ Sunday       80 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    18 hrs 14 mins      ███████████████████████░░   94.07% 
-Markdown                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
-JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09% 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
-Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
+Other                    12 hrs 6 mins       █████████████████████████   100.0% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
