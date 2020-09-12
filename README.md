@@ -40,17 +40,17 @@ Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 333 Contributions in the Year 2020
+> 🏆 334 Contributions in the Year 2020
  > 
 > 📦 20.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories
+> 📜 31 Public Repositories
  > 
 > 🔑 2 Private Repositories 
 
@@ -83,8 +83,11 @@ Sunday       80 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Other                    12 hrs 6 mins       █████████████████████████   100.0% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Other                    11 hrs 59 mins      ████████████████████████░   99.32% 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
 ```
 
