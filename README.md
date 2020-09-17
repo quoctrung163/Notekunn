@@ -2,32 +2,32 @@
 [![Actions Status](https://github.com/Notekunn/Notekunn/workflows/update-gh-activity/badge.svg)](https://github.com/Notekunn/Notekunn/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
-### Hello 👋, I'm [Notekunn](https://Notekunn.github.io) 
+![Notekunn](https://count.getloli.com/get/@notekunn)
 
-<br/>
-<a href="https://www.facebook.com/ShiinDz">
-  <img align="left" alt="guilyx's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/_unique.scary_">
-  <img align="left" alt="guilyx's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a> <br /> <br />
+### Hello 👋, Mình là [Notekunn](https://Notekunn.github.io) 
+Mình hiện là **Sinh viên 👨🏽‍💼 [@ACT](http://actvn.edu.vn/)** (Học viện kỹ thuật mật mã). <br />
+Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường. <br />
 
-I'm a **Student 👨🏽‍💼 [@ACT](http://actvn.edu.vn/)** in VietNam. <br />
-I'm a **Web Developer / Embedded Software Engineer [@Hiventive](https://www.hiventive.com)**  <br />
-I strongly advocate my fellow classmates to get into Open Source 📢 [@MasterERTS](https://github.com/MasterERTS).  <br />
-Beside's programming, I'm a Small Forward in my Basketball Varsity team. <br />
+![Meme](https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif)
 
-  <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
-  
-**Miscellaneous:**
+**Sở thích khác:**
 
-- 📖 I’m currently learning new things on [Internet](https://www.google.com.vn);
-- 🤹🏽 Fields I enjoy the most :
-  - 🤖 Robotics 
-  - 🎛 Embedded Systems
-  - 🖼 Computer Vision
-  - 📊 Data Science
-  - 🛠 DIY IoT
+- 📖 Lướt **[Internet](https://www.google.com.vn)**.
+- 👀 Xem **[Phim](https://www.google.com.vn)**.
+- 📚 Đọc **[Truyện](https://truyencv.com/)**.
+- 🤹🏽 Yêu thích:
+  - 🤖 Rô-bốt 
+  - 🎛 Nhúng
+  - 🖼 Khoa học máy tính
+  - 📊 Khoa học dữ liệu
+  - 🛠 Machine learning
+
+
+**Liên hệ:**
+
+- 🐋 Facebook: **[Trần Đức Cường](https://www.facebook.com/ShiinDz)**.
+- 🐍 Email: **[clonebmn2itt@gmail.com](mailto:clonebmn2itt@gmail.com)**.
+- 🐬 Github: **[Notekunn](https://github.com/Notekunn)**.
 
 **:zap: Recent Activity:**
 
