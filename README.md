@@ -15,13 +15,6 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 - 📖 Lướt **[Internet](https://www.google.com.vn)**.
 - 👀 Xem **[Phim](https://www.google.com.vn)**.
 - 📚 Đọc **[Truyện](https://truyencv.com/)**.
-- 🤹🏽 Yêu thích:
-  - 🤖 Rô-bốt 
-  - 🎛 Nhúng
-  - 🖼 Khoa học máy tính
-  - 📊 Khoa học dữ liệu
-  - 🛠 Machine learning
-
 
 **Liên hệ:**
 
