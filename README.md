@@ -25,11 +25,11 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com//Notekunn/notekunn.github.io/issues/7) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
-2. 🗣 Commented on [#7](https://github.com//Notekunn/notekunn.github.io/issues/7) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
-3. 🗣 Commented on [#10](https://github.com//Notekunn/notekunn.github.io/issues/10) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
-4. ❗️ Opened issue [#10](https://github.com//Notekunn/notekunn.github.io/issues/10) in [Notekunn/notekunn.github.io](https://github.com//Notekunn/notekunn.github.io)
-5. ❗️ Opened issue [#114](https://github.com//rossjrw/rossjrw/issues/114) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
+1. 🗣 Commented on [#7](https://github.com/Notekunn/notekunn.github.io/issues/7) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
+2. 🗣 Commented on [#7](https://github.com/Notekunn/notekunn.github.io/issues/7) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
+3. 🗣 Commented on [#10](https://github.com/Notekunn/notekunn.github.io/issues/10) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
+4. ❗️ Opened issue [#10](https://github.com/Notekunn/notekunn.github.io/issues/10) in [Notekunn/notekunn.github.io](https://github.com/Notekunn/notekunn.github.io)
+5. ❗️ Opened issue [#114](https://github.com/rossjrw/rossjrw/issues/114) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
