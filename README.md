@@ -76,7 +76,7 @@ Sunday       79 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
