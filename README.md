@@ -33,7 +33,7 @@ Hiện mình đang theo học ngành **Công nghệ thông tin** tại trường
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My Github Data** 
 
@@ -76,7 +76,11 @@ Sunday       79 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   32 mins             ███████████████░░░░░░░░░░   60.02% 
+JavaScript               20 mins             █████████░░░░░░░░░░░░░░░░   38.6% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 ```
 
